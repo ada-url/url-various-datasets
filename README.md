@@ -7,6 +7,7 @@ These are collections of URLs for  benchmarking purposes.
 - wikipedia/wikipedia_100k.txt: 100k URLs from a snapshot of all Wikipedia articles as URLs (March 6th 2023)
 - others/kasztp.txt: test URLs from https://github.com/kasztp/URL_Shortener (MIT License) (48009 URLs).
 - others/userbait.txt : test URLs from https://github.com/userbait/phishing_sites_detector (unknown copyright) (11430 URLs).
+- top100/top100.txt: crawl of  the top visited 100 websites and extracts unique URLs
 
 **Disclaimer**: This repository is developed and released for research purposes only. 
   - This project reshares some publicly available datasets. When in doubt, investigate the copyright of the files you want to use. 
